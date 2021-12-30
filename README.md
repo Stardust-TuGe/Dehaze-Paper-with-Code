@@ -3,7 +3,7 @@ A collection of papers and code for image dehaze
 
 ### 2021:
 * Shyam et al, Towards Domain Invariant Single Image Dehazing. (**AAAI**) [[paper](https://www.aaai.org/AAAI21Papers/AAAI-1706.ShyamP.pdf)][[code](https://github.com/hello-trouble/DIDH)]
-* ![image](paper_net_image/DIDH.png)
+* ![image](https://github.com/Stardust-TuGe/Dehaze-Paper-with-Code/blob/main/paper_net_image/DIDH.png)
 * Dong et al, Physics-based Feature Dehazing Networks. (**ECCV**) [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750188.pdf)][code]
 * Deng et al, HardGAN: A Haze-Aware Representation Distillation GAN for Single Image Dehazing. (**ECCV**) [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510715.pdf)][[code](https://github.com/huangzilingcv/HardGAN)]
 * Anvari et al, Dehaze-GLCGAN: Unpaired Single Image De-hazing via Adversarial Training. [[paper](http://xxx.itp.ac.cn/abs/2008.06632)][code]
