@@ -6,7 +6,7 @@ A collection of papers and code for image dehaze
 
 
 ### 2021:
-URNet: A U-Net based residual network for image dehazing[[paper](https://www.sciencedirect.com/science/article/abs/pii/S156849462030822X?via%3Dihub)
+*URNet: A U-Net based residual network for image dehazing[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S156849462030822X?via%3Dihub)
 * Shyam et al, Towards Domain Invariant Single Image Dehazing. (**AAAI**) [[paper](https://www.aaai.org/AAAI21Papers/AAAI-1706.ShyamP.pdf)][[code](https://github.com/hello-trouble/DIDH)]
 * ![image](https://github.com/Stardust-TuGe/Dehaze-Paper-with-Code/blob/main/paper_net_image/DIDH.png)
 * Dong et al, Physics-based Feature Dehazing Networks. (**ECCV**) [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750188.pdf)][code]
