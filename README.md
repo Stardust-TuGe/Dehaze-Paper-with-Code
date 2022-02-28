@@ -6,6 +6,7 @@ A collection of papers and code for image dehaze
 
 
 ### 2021:
+* DehazeFlow: Multi-scale Conditional Flow Network for Single Image Dehazing. (**ACMM**)[[paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475432)][[code](https://dl.acm.org/doi/abs/10.1145/3474085.34754320)]
 * URNet: A U-Net based residual network for image dehazing[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S156849462030822X?via%3Dihub)
 * Shyam et al, Towards Domain Invariant Single Image Dehazing. (**AAAI**) [[paper](https://www.aaai.org/AAAI21Papers/AAAI-1706.ShyamP.pdf)][[code](https://github.com/hello-trouble/DIDH)]
 * ![image](https://github.com/Stardust-TuGe/Dehaze-Paper-with-Code/blob/main/paper_net_image/DIDH.png)
@@ -16,7 +17,7 @@ A collection of papers and code for image dehaze
 * Kar et al, Transmission Map and Atmospheric Light Guided Iterative Updater Network for Single Image Dehazing. (**CVPR**) [[paper](http://xxx.itp.ac.cn/abs/2008.01701)][[code](https://github.com/aupendu/iterative-dehaze)]
 * Shen et al, Implicit Euler ODE Networks for Single-Image Dehazing. [[paper](https://arxiv.org/abs/2007.06443)][code]
 * Liu et al, Efficient Unpaired Image Dehazing with Cyclic Perceptual-Depth Supervision. [[paper](https://arxiv.org/abs/2007.05220)][code]
-* Li et al, You Only Look Yourself: Unsupervised and Untrained Single Image Dehazing Neural Network. [[paper](https://arxiv.org/abs/2006.16829)][code]
+* Li et al, You Only Look Yourself: Unsupervised and Untrained Single Image Dehazing Neural Network.(**IJCV**) [[paper](https://arxiv.org/abs/2006.16829)][[code]https://github.com/iCVTEAM/DehazeFlow)]
 * Pang et al, BidNet: Binocular Image Dehazing without Explicit Disparity Estimation. (**CVPR**) [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Pang_BidNet_Binocular_Image_Dehazing_Without_Explicit_Disparity_Estimation_CVPR_2020_paper.pdf)][code]
 * Sourya et al, Fast Deep Multi-patch Hierarchical Network for Nonhomogeneous Image Dehazing. [[paper](https://arxiv.org/abs/2005.05999)][code]
 * Dong et al, Multi-Scale Boosted Dehazing Network with Dense Feature Fusion. (**CVPR**) [[paper](https://arxiv.org/abs/2004.13388)][[code](https://github.com/BookerDeWitt/MSBDN-DFF)]
