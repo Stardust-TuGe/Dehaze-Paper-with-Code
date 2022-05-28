@@ -2,7 +2,7 @@
 A collection of papers and code for image dehaze
 
 ### 2022
-* Self-augmented Unpaired Image Dehazing via Density and Depth Decomposition. (**CVPR**)[[paper]][[code]([(https://github.com/YaN9-Y/D4))]
+* Self-augmented Unpaired Image Dehazing via Density and Depth Decomposition. (**CVPR**)[[paper]][[code](https://github.com/YaN9-Y/D4)]
 
 
 ### 2021:
