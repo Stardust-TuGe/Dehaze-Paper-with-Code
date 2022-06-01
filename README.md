@@ -6,7 +6,7 @@ A collection of papers and code for image dehaze
 
 
 ### 2021:
-* Ju M et al. IDRLP: Image Dehazing Using Region Line Prior.(***TIP*) [[paper](https://ieeexplore.ieee.org/abstract/document/9594664)][[code]]
+* Ju M et al. IDRLP: Image Dehazing Using Region Line Prior.(**TIP**) [[paper](https://ieeexplore.ieee.org/abstract/document/9594664)][[code]]
 * DehazeFlow: Multi-scale Conditional Flow Network for Single Image Dehazing. (**ACMM**)[[paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475432)][[code](https://github.com/iCVTEAM/DehazeFlow)]
 * URNet: A U-Net based residual network for image dehazing[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S156849462030822X?via%3Dihub)
 * Shyam et al, Towards Domain Invariant Single Image Dehazing. (**AAAI**) [[paper](https://www.aaai.org/AAAI21Papers/AAAI-1706.ShyamP.pdf)][[code](https://github.com/hello-trouble/DIDH)]
