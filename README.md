@@ -1,6 +1,9 @@
 # Dehaze-Paper-with-Code
 A collection of papers and code for image dehaze
 
+### 2023
+* Vision Transformers for Single Image Dehazing. (**TIP**)[[paper](https://ieeexplore.ieee.org/abstract/document/10076399)][[code](https://github.com/IDKiro/DehazeFormer)]
+
 ### 2022
 * Self-augmented Unpaired Image Dehazing via Density and Depth Decomposition. (**CVPR**)[[paper]][[code](https://github.com/YaN9-Y/D4)]
 
