@@ -5,6 +5,7 @@ A collection of papers and code for image dehaze
 * Vision Transformers for Single Image Dehazing. (**TIP**)[[paper](https://ieeexplore.ieee.org/abstract/document/10076399)][[code](https://github.com/IDKiro/DehazeFormer)]
 
 ### 2022
+* TransWeather: Transformer-Based Restoration of Images Degraded by Adverse Weather Conditions. (**CVPR**)[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Valanarasu_TransWeather_Transformer-Based_Restoration_of_Images_Degraded_by_Adverse_Weather_Conditions_CVPR_2022_paper.html)][[code](https://github.com/jeya-maria-jose/TransWeather)]
 * Self-augmented Unpaired Image Dehazing via Density and Depth Decomposition. (**CVPR**)[[paper]][[code](https://github.com/YaN9-Y/D4)]
 
 
